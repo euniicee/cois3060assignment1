@@ -33,7 +33,7 @@ section {
 }
 
 .tab:hover {
-    background-color: red;
+    background-color: blueviolet;
 }
 
 .tab.active {
